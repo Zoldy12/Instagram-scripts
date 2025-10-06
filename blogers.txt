@@ -1,0 +1,5 @@
+gold.in.darkness 3
+the.tri.way 2
+sapnhonhat_ 1
+mttdecor8 4
+end
