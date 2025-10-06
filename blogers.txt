@@ -1,5 +1,4 @@
-gold.in.darkness 3
-the.tri.way 2
-sapnhonhat_ 1
-mttdecor8 4
+mrbeast 10
+jamorant 12
+kingjames 6
 end

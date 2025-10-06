@@ -444,7 +444,7 @@ def main():
         
         try:
             # Открываем страницу профиля
-            page.goto(f"https://www.instagram.com/chebotarev.nikita/", wait_until='load')
+            page.goto(f"https://www.instagram.com/zoldy_12/", wait_until='load')
             
             # Принимаем cookies
             cookie_selectors = [
