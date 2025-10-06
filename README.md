@@ -1,5 +1,5 @@
 # Instagram-scripts
-Repository contains 2 python scripts and 1 text file.
+Repository contains 2 python scripts and 1 text file. You need to install playwright library before running scripts.
 
 Firstly, blogers.txt must have rows with format "{bloger_username} {int_number}", where bloger_username - instagram bloger username and int_number - amount of bloger's followers that you want to follow. For example, "mr_bill 50". The last row must be "end"!
 
